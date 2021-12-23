@@ -1,0 +1,195 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .sst {
+        text-align: center;
+        margin-left: -200px;
+    }
+    .form h1{
+        font-size: 1.3em;
+
+    }
+    .form h3{
+        font-size: 0.8em;
+    }
+    
+   
+  }
+
+
+.sst{
+  
+    align-items: center;
+    text-align: center;
+    padding-left: 200px;
+}
+
+.main{
+    width: 100%;
+    max-width: 1000px;
+   
+}
+
+
+.form{
+text-align: center  ;
+}
+
+.img{
+    width: 60px;
+    
+}
+
+.inps{
+    align-items: center;
+    padding: 10px 10px;
+}
+.address{
+    width: 40px;
+    text-decoration: dashed;
+}
+.student{
+    padding: 10px 0;
+}
+    
+.user{
+    border: none;
+    outline: none;
+    border: 1px solid grey;
+}
+.user:hover{
+border: 1px solid  rgb(145, 142, 142);
+}
+
+
+
+
+.father{
+    padding: 10px 0;
+}
+
+.forthdata{
+    padding: 10px 0;
+}
+
+.add{
+    padding: 10px 0;
+}
+
+
+.cnic{
+    padding: 10px 0;
+}
+.markpost{
+padding: 5px 0;}
+/* subreq :start */
+
+.subreq{
+text-align: center;
+font-size: 14px;
+font-weight: bold;
+padding: 10px 0;
+width: 100%;
+    max-width: 1000px;
+
+}
+.Details{
+    width: 100%;
+    max-width: 1000px;
+    font-weight: bold;
+    padding: 10px 10px;
+
+}
+.main2{
+padding: 10px 5px;
+text-align: center;
+width: 100%;
+    max-width: 1000px;  
+    
+    
+}
+.sno{
+    padding: 10px 0;
+}
+
+/* subreq end */
+
+/* main3 start  */
+.main3{
+    text-align: center;
+    padding: 5px 0;
+    width: 100%;
+    max-width: 1000px;
+
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+}
+.Following{
+    font-weight: bold;
+    padding: 5px 0;
+}
+.pera{
+    font-size: 13px;
+}
+/* main3 end  */
+
+/* main4 start  */
+.PLEACE{
+    font-weight: bold;
+    padding: 10px 10px;
+    border-bottom: 1px solid rgb(214, 204, 204);
+}
+.main4{
+    text-align: center;
+    width: 100%;
+    max-width: 1000px;
+
+}
+/* main4 end  */
+
+.main5{
+    padding-left: 150px;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+}
+
+
+
+.btn1{
+    align-items: center;
+    border: none;
+    outline: none;
+    padding: 40px;
+
+}
+
+.btn2{
+    font-size: 2em;
+    padding: 10px 500px;
+    border-radius: 50px;
+    background-color: rgb(23, 72, 207);
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
